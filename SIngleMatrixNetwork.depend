@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1585853806 source:c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\network.cpp
+	"stdafx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<iostream>
+	<vector>
+
+1585853806 c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\stdafx.h
+
+1585853806 c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\network.h
+	<stdio.h>
+	<string>
+	<vector>
+
+1585853806 source:c:\users\liuwe\desktop\bcr\github_code\single-matrix-network\stdafx.cpp
+	"stdafx.h"
+
+1586288112 source:c:\users\olivi\downloads\smn_for_codeblocks-master\smn_for_codeblocks-master\single-matrix-network\network.cpp
+	"stdafx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<iostream>
+	<vector>
+
+1586288112 c:\users\olivi\downloads\smn_for_codeblocks-master\smn_for_codeblocks-master\single-matrix-network\stdafx.h
+
+1586288112 c:\users\olivi\downloads\smn_for_codeblocks-master\smn_for_codeblocks-master\single-matrix-network\network.h
+	<stdio.h>
+	<string>
+	<vector>
+
+1586288112 source:c:\users\olivi\downloads\smn_for_codeblocks-master\smn_for_codeblocks-master\single-matrix-network\singlematrixnetwork.cpp
+	"stdafx.h"
+	"Network.h"
+	<math.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1586288112 source:c:\users\olivi\downloads\smn_for_codeblocks-master\smn_for_codeblocks-master\single-matrix-network\stdafx.cpp
+	"stdafx.h"
+
+1590574174 source:c:\users\olivi\downloads\smn_for_codeblocks-master\single-matrix-network\network.cpp
+	"stdafx.h"
+	"Network.h"
+	<stdio.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<iostream>
+	<vector>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/videoio.hpp>
+	<opencv2/video.hpp>
+
+1586284512 c:\users\olivi\downloads\smn_for_codeblocks-master\single-matrix-network\stdafx.h
+
+1590574174 c:\users\olivi\downloads\smn_for_codeblocks-master\single-matrix-network\network.h
+	<stdio.h>
+	<string>
+	<vector>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/videoio.hpp>
+	<opencv2/video.hpp>
+
+1586284512 source:c:\users\olivi\downloads\smn_for_codeblocks-master\single-matrix-network\stdafx.cpp
+	"stdafx.h"
+
+1590575764 source:c:\users\olivi\downloads\smn_for_codeblocks-master\single-matrix-network\singlematrixnetwork.cpp
+	"stdafx.h"
+	"Network.h"
+	<math.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/videoio.hpp>
+	<opencv2/video.hpp>
+
